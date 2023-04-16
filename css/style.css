@@ -1,1 +1,18 @@
 @import  "common.css";
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: red;
+}
+p{
+    text-align: center;
+    font-weight: 600px;
+    color: yellow;
+    background-color: rgb(35, 35, 240);
+    
+    -webkit-border-radius: 5px solid none;
+    -moz-border-radius: 5px solid none;
+    -ms-border-radius: 5px solid none;
+    -o-border-radius: 5px solid none;
+}
